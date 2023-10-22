@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (bai4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bai4.cpp
+C:\Users\DELL\OneDrive - gm.uit.edu.vn\Desktop\New folder\oop\thuc hanh\lab02\bai4\bai4.cpp(22,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ThiSinh.cpp
+  Generating Code...
+  bai4.vcxproj -> C:\Users\DELL\OneDrive - gm.uit.edu.vn\Desktop\New folder\oop\thuc hanh\lab02\bai01\x64\Debug\bai04.exe

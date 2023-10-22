@@ -1,0 +1,7 @@
+﻿  TamGiac.cpp
+C:\Users\DELL\OneDrive - gm.uit.edu.vn\Desktop\New folder\oop\thuc hanh\lab02\bai02\TamGiac.cpp(52,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  bai02.cpp
+C:\Users\DELL\OneDrive - gm.uit.edu.vn\Desktop\New folder\oop\thuc hanh\lab02\bai02\bai02.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\DELL\OneDrive - gm.uit.edu.vn\Desktop\New folder\oop\thuc hanh\lab02\bai02\bai02.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  bai02.vcxproj -> C:\Users\DELL\OneDrive - gm.uit.edu.vn\Desktop\New folder\oop\thuc hanh\lab02\bai01\x64\Debug\bai02.exe

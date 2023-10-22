@@ -1,0 +1,6 @@
+﻿  DaGiac.cpp
+C:\Users\DELL\OneDrive - gm.uit.edu.vn\Desktop\New folder\oop\thuc hanh\lab02\bai03\DaGiac.cpp(52,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  bai03.cpp
+C:\Users\DELL\OneDrive - gm.uit.edu.vn\Desktop\New folder\oop\thuc hanh\lab02\bai03\bai03.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  bai03.vcxproj -> C:\Users\DELL\OneDrive - gm.uit.edu.vn\Desktop\New folder\oop\thuc hanh\lab02\bai01\x64\Debug\bai03.exe
